@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ticket</string>
+    <array name="berangkat">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Aceh</item>
+        <item>Medan</item>
+        <item>Palembang</item>
+        <item>Bogor</item>
+        <item>Sukabumi</item>
+        <item>Cigondewah</item>
+    </array>
+
+    <array name="tujuan">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Aceh</item>
+        <item>Medan</item>
+        <item>Palembang</item>
+        <item>Bogor</item>
+        <item>Sukabumi</item>
+        <item>Cigondewah</item>
+    </array>
+</resources>
